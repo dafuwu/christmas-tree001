@@ -1,0 +1,7 @@
+{
+  "name": "Holiday Magic: Gesture Tree",
+  "description": "A cinematic, gesture-controlled 3D Christmas experience using MediaPipe and Three.js. Control a magical floating tree of ornaments and memories with your hands.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
